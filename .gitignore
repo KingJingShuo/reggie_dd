@@ -1,8 +1,5 @@
-/src/main/resources/front/
-/src/main/resources/front/**
+
 .idea
-/src/main/resources/backend/
-/src/main/resources/backend/**
 .idea/**
 target
 target/**
